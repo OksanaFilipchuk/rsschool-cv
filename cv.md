@@ -2,7 +2,7 @@
 ****
 ****
 * ##### **Contacts** #####
-    * Phone: +380685007563
+    * Phone: +38068500**63
     * E-mail: filipchuk.oksana@gmail.com
     * discord-name: OksanaFilipchuk#7391
 ****
