@@ -1,7 +1,11 @@
 *{
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    color: #535252;  
+    color: #535252;
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
 }
 
 .body{
@@ -45,11 +49,13 @@ ul{
 
 .navigation-item {
     list-style: none;
+    text-decoration: none;
     margin: 10px;
     padding: 0;
     font-style: italic;
     font-weight: 700;
 }
+
 
 .header-wrapper{
     display: flex;
@@ -95,13 +101,14 @@ ul{
     font-weight: 700;
 }
 
-.link{
+.link {
     font-style: italic;
     line-height: 2.5em;
     transition: all 200ms ease-in-out;
     text-decoration: none;
 }
 
+.navigation-item,
 .link:hover {
     text-decoration: underline;
 }
